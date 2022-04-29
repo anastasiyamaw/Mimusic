@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.media2:media2-common:1.1.3@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/4d612b1eac08b462a913d3619c54cf85/transformed/media2-common-1.1.3/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/4d612b1eac08b462a913d3619c54cf85/transformed/media2-common-1.1.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4d612b1eac08b462a913d3619c54cf85/transformed/media2-common-1.1.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4d612b1eac08b462a913d3619c54cf85/transformed/media2-common-1.1.3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
