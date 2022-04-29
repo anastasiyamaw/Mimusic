@@ -13,6 +13,7 @@ import androidx.navigation.fragment.findNavController
 import kotlinx.android.synthetic.main.sign_up.*
 import kotlinx.android.synthetic.main.sign_up.view.*
 
+
 class SignUp : Fragment() {
 
     override fun onCreateView(
