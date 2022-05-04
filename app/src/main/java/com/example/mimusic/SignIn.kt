@@ -13,7 +13,6 @@ import androidx.navigation.fragment.findNavController
 import kotlinx.android.synthetic.main.sign_in.view.*
 import kotlinx.android.synthetic.main.sign_up.*
 
-
 class SignIn : Fragment() {
 
     var remember = false
